@@ -1,2 +1,2 @@
 # ASIR1
-Repositorio trabajos ISO Y PAR con sus respectivos apuntes
+Repositorio trabajos ISO
